@@ -8,3 +8,5 @@ Acredite, não estou destratando este meu primeiro projeto, mas eu acredito que 
 Melhor ainda, ficou um pouco mais claro para mim a relação entre os containers (flex parent) e os itens (flex itens).
 
 Você percebeu os itens tortos no canto superior direito? eu também percebi. E eles me incomodam bastante. É uma forma construída e não uma imagem, por exemplo. Todavia, eu resolvi deixar dessa maneira. É engraçado. Pretendo voltar daqui a alguns meses para rir um pouco, e também ficar feliz com minha evolução.
+
+ATUALIZAÇÃO: O clone ficou fofinho. Porém, toda vez que eu olhava para aqueles ícones tortos, uma parte de mim morria. Portanto, adicionei novos ícones e os alinhei corretamente. Agora sim.
